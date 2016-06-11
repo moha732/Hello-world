@@ -1,2 +1,5 @@
 # Hello-world
-Just try to code
+
+I wanna learn programming language
+
+Hi there, I wanna learn programming language from GitHub
